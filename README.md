@@ -7,7 +7,7 @@ Plastik enjeksiyon makinesinin her çevrimde kaydettiği proses verisinden
 bir makine öğrenmesi modeli. Amaç, hatalı parçayı kalite kontrolde değil,
 oluşurken yakalamak ve kontrolü en riskli çevrimlere yoğunlaştırmak.
 
-![Gerçek veri sonuçları](images/gercek_veri_sonuc.png)
+![Gerçek veri sonuçları](gercek_veri_sonuc.png)
 
 ## Sonuç (gerçek fabrika verisi)
 
