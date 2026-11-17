@@ -1,0 +1,16 @@
+# Veri ve uretilen dosyalar (her calistirmada yeniden olusur)
+veri/
+*.csv
+*.joblib
+metrics*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db

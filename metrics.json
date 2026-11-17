@@ -1,0 +1,19 @@
+{
+  "model": "Gradient boosting",
+  "roc_auc": 0.904,
+  "pr_auc": 0.664,
+  "fire_orani_test": 0.0548,
+  "esik": 0.11,
+  "alarm_orani": 0.0845,
+  "yakalanan_hata_orani": 0.731,
+  "alarm_isabet_orani": 0.473,
+  "test_gun": 8.3,
+  "test_donemi_tasarruf_tl": 3688,
+  "yillik_tasarruf_tl": 161575,
+  "yillik_fire_maliyeti_tl": 431757,
+  "varsayimlar": {
+    "hurda_maliyeti": 45.0,
+    "mudahale_maliyeti": 4.0,
+    "onleme_orani": 0.7
+  }
+}

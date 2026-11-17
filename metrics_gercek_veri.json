@@ -1,0 +1,42 @@
+{
+  "satir": 7992,
+  "hatali": 71,
+  "degisken": 26,
+  "modeller": {
+    "Lojistik regresyon (baz)": {
+      "zaman_roc_auc": 0.934,
+      "zaman_pr_auc": 0.08,
+      "cv_roc_auc": 0.932,
+      "cv_pr_auc": 0.272
+    },
+    "Gradient boosting": {
+      "zaman_roc_auc": 0.937,
+      "zaman_pr_auc": 0.159,
+      "cv_roc_auc": 0.944,
+      "cv_pr_auc": 0.448
+    }
+  },
+  "secilen_model": "Gradient boosting",
+  "rastgele_tahmin_pr_auc": 0.0089,
+  "en_riskli_yuzde_2_cv": {
+    "kontrol_edilen": 159,
+    "yakalanan": 36,
+    "toplam_hatali": 71,
+    "yakalama_orani": 0.507,
+    "isabet_orani": 0.226
+  },
+  "en_riskli_yuzde_5_cv": {
+    "kontrol_edilen": 399,
+    "yakalanan": 43,
+    "toplam_hatali": 71,
+    "yakalama_orani": 0.606,
+    "isabet_orani": 0.108
+  },
+  "en_riskli_yuzde_5_zaman": {
+    "kontrol_edilen": 119,
+    "yakalanan": 6,
+    "toplam_hatali": 9,
+    "yakalama_orani": 0.667,
+    "isabet_orani": 0.05
+  }
+}
